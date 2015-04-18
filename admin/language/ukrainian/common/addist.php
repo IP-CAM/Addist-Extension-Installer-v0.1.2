@@ -1,41 +1,41 @@
 <?php
-$_['tab_general']                  = 'Основные';
-$_['tab_addist']                   = 'Прочие настройки';
+$_['tab_general']                  = 'Основні';
+$_['tab_addist']                   = 'Інші налаштування';
 
-$_['addist_text_auto']             = 'Автоматически';
-$_['addist_text_auto_required']    = 'Автоматически загружать важные обновления';
-$_['addist_text_update_confirm']   = 'Спрашивать подтверждения перед загрузкой';
-$_['addist_text_update_check']     = 'Проверить';
-$_['addist_text_reinstall']        = 'Исправить';
-$_['addist_text_reinstall_h']      = 'Перустановить и исправить ошибки которые появились при неправльной установке.';
-$_['addist_text_install_mods']     = 'Установить моды';
-$_['addist_text_install_mods_h']   = 'Установить vqmod/ocmod файлы.';
-$_['addist_text_remove']           = 'Удалить';
-$_['addist_text_remove_h']         = 'Полностью удалить дополнение и уничтожить все его файлы.';
-$_['addist_text_remove_confirm']   = 'Вы действительно хотите удалить дополнение?';
-$_['addist_text_get_order_id']     = 'Узнать';
-$_['addist_text_mods_info']        = 'Если увидите ошибку после установки модификаторов, пожалуйста, почистите папку system/modification!';
+$_['addist_text_auto']             = 'Автоматично';
+$_['addist_text_auto_required']    = 'Автоматично завантажувати важливі оновлення';
+$_['addist_text_update_confirm']   = 'Запитувати підтвердження перед завантаженням';
+$_['addist_text_update_check']     = 'Перевірити';
+$_['addist_text_reinstall']        = 'Виправити';
+$_['addist_text_reinstall_h']      = 'Переустановити та виправити помилки, які виникли під час неправильної установки.';
+$_['addist_text_install_mods']     = 'Встановити моди';
+$_['addist_text_install_mods_h']   = 'Встановити vqmod/ocmod файли.';
+$_['addist_text_remove']           = 'Видалити';
+$_['addist_text_remove_h']         = 'Повністю видалити додаток і знищити всі його файли.';
+$_['addist_text_remove_confirm']   = 'Ви дійсно хочете видалити додаток?';
+$_['addist_text_get_order_id']     = 'Дізнатися';
+$_['addist_text_mods_info']        = 'Якщо побачите помилку після установки модифікаторів, будь ласка, очистіть папку system/modification!';
 
-$_['addist_entry_update']          = 'Обновление:';
-$_['addist_entry_install']         = 'Системные операции:';
-$_['addist_entry_backup']          = 'Сохранение/восстановление настроек:';
-$_['addist_entry_serial']          = 'Лицензионный ключ:';
-$_['addist_entry_expires']         = 'Окончание пробного периода:';
-$_['addist_entry_market']          = 'Место покупки:';
-$_['addist_entry_order_id']        = 'Номер заказа:';
-$_['addist_entry_store']           = 'Текущий магазин:';
+$_['addist_entry_update']          = 'Оновлення:';
+$_['addist_entry_install']         = 'Системні операції:';
+$_['addist_entry_backup']          = 'Збереження/Відновлення налаштувань:';
+$_['addist_entry_serial']          = 'Ліцензійний ключ:';
+$_['addist_entry_expires']         = 'Закінчення пробного періоду:';
+$_['addist_entry_market']          = 'Місце покупки:';
+$_['addist_entry_order_id']        = 'Номер замовлення:';
+$_['addist_entry_store']           = 'Поточний магазин:';
 
-$_['addist_button_activate']       = 'Активировать';
-$_['addist_button_purchase']       = 'Купить';
-$_['addist_button_cancel']         = 'Выйти';
+$_['addist_button_activate']       = 'Активувати';
+$_['addist_button_purchase']       = 'Купити';
+$_['addist_button_cancel']         = 'Вийти';
 
-$_['addist_text_installed']        = 'Дополнение установлено: %s';
-$_['addist_text_uninstalled']      = 'Дополнение удалено: %s';
-$_['addist_text_activated']        = 'Дополнение успешно активировано.';
-$_['addist_text_have_serial']      = 'У меня есть лицензионный ключ';
-$_['addist_text_activation']       = 'У меня есть лицензия, я хочу активировать её.';
-$_['addist_text_backup']           = 'Сохранить';
-$_['addist_text_restore']          = 'Восстановить';
+$_['addist_text_installed']        = 'Доповнення встановлено: %s';
+$_['addist_text_uninstalled']      = 'Доповнення видалено: %s';
+$_['addist_text_activated']        = 'Доповнення успішно активовано.';
+$_['addist_text_have_serial']      = 'У мене є ліцензійний ключ';
+$_['addist_text_activation']       = 'У мене є ліцензія, я хочу активувати її.';
+$_['addist_text_backup']           = 'Зберегти';
+$_['addist_text_restore']          = 'Відновити';
 
 $_['addist_error_permission']      = 'У вас недостаточна прав чтобы управлять этим дополнением.';
 $_['addist_error_undefined']       = 'Неизвестная ошибка.';
